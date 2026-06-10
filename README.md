@@ -31,7 +31,7 @@ Struktur Proyek
 Instalasi
 Klon repositori:
 
-git clone https://github.com/Husemn/Analysing-pharmaceutical-sales-data.git
+git clone https://github.com/Husemn/Analysing-Pharma-Sales-Data
 cd Analysing-pharmaceutical-sales-data
 
 Instal dependensi:
