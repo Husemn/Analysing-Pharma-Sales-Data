@@ -20,13 +20,13 @@ Teknologi yang Digunakan
 - Jupyter Notebook
 
 Struktur Proyek
-Analysing-pharmaceutical-sales-data/
-data/
-    salesdaily.csv
-notebook.ipynb
-README.md
-requirements.txt
-.gitignore
+- Analysing-pharmaceutical-sales-data/
+- data/
+    - salesdaily.csv
+- notebook.ipynb
+- README.md
+- requirements.txt
+- .gitignore
 
 Instalasi
 Klon repositori:
