@@ -16,6 +16,7 @@ Dataset ini berisi catatan penjualan farmasi harian di berbagai kategori obat.
 Teknologi yang Digunakan
 - Python
 - Pandas
+- Matplotlib
 - NumPy
 - Jupyter Notebook
 
