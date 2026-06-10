@@ -40,10 +40,10 @@ Instal dependensi:
 pip install -r requirements.txt
 
 Menjalankan Proyek
-Buka Jupyter Notebook:
-jupyter notebook
-Kemudian buka file: 
-notebook.ipynb
+- Buka Jupyter Notebook:
+    - jupyter notebook
+- Kemudian buka file: 
+    - notebook.ipynb
 
 Contoh Analisis
 Notebook ini mencakup:
