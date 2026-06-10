@@ -21,14 +21,12 @@ Teknologi yang Digunakan
 
 Struktur Proyek
     Analysing-pharmaceutical-sales-data/
-    │
-    ├── data/
-    │   └── salesdaily.csv
-    │
-    ├── notebook.ipynb
-    ├── README.md
-    ├── requirements.txt
-    └── .gitignore
+    data/
+        salesdaily.csv
+    notebook.ipynb
+    README.md
+    requirements.txt
+    .gitignore
 
 Instalasi
 Klon repositori:
